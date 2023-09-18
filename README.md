@@ -5,3 +5,4 @@ This repository is intended to host all materials related to the tech camp for l
 ## Exercises
 - [Class 1 - HTML](./class-1-html/README.md)
 - [Class 2 - CSS](./class-2-css/README.md)
+- [Class 4 - Intro to JS](./class-4-intro-js/README.md)
